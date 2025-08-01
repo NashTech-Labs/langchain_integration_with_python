@@ -1,0 +1,10 @@
+# Python
+pages/__pycache__/
+
+# IDEs
+.idea
+
+# Environment
+.venv
+
+
