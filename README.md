@@ -27,7 +27,7 @@ To use LangChain with OpenRouter:
 1. Go to [https://openrouter.ai](https://openrouter.ai)
 2. Create an account or log in
 3. Generate your API key at [https://openrouter.ai/keys](https://openrouter.ai/keys)
-4. Use this key securely within your environment or configuration file
+4. Pass this key securely within your environment (.env) file
 
 ## Project Highlights
 
